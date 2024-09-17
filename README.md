@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flecha248&label=Profile%20views&color=0e75b6&style=flat" alt="flecha248" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=flecha248" alt="flecha248" /></a> </p>
-
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=flecha248&theme=onedark" alt="flecha248" />
+  
 - 📫 How to reach me **soham.ju27@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
