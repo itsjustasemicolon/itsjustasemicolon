@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Soham Das</h1>
+<h1 align="center">Hi 👋, I'm Soham </h1>
 <h3 align="center">I am an enthusiastic programmer with hands-on experience in Robotics using Arduino Uno, ESP32 and Raspberry Pi. Eager to make new connections, explore new opportunities in programming and robotics and , and turn innovative ideas into reality.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flecha248&label=Profile%20views&color=0e75b6&style=flat" alt="flecha248" /> </p>
