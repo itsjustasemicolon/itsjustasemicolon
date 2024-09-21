@@ -1,5 +1,5 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&lines=Hey%2C+I'm+Soham+Das!+%F0%9F%91%8B)](https://git.io/typing-svg)
-<h3 align="left">I am a sophomore at the department of IT at Jadavpur University. I am an enthusiastic programmer with hands-on experience in Robotics with Arduino Uno, ESP32 and Raspberry Pi. Eager to make new connections, explore new opportunities in programming and robotics and , and turn innovative ideas into reality.</h3>
+<h3 align="left">I am a sophomore in the Department of IT at Jadavpur University. As an enthusiastic programmer, I have hands-on experience in robotics using Arduino Uno, ESP32, and Raspberry Pi. I am eager to make new connections, explore opportunities in programming and robotics, and turn innovative ideas into reality.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flecha248&label=Profile%20views&color=0e75b6&style=flat" alt="flecha248" /> </p>
 
