@@ -20,7 +20,7 @@
 
 ## 🏆 GitHub Trophies
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=flecha248&theme=onedark" alt="flecha248" />
-
+[![My Holopin Badges](https://holopin.me/dassohamofficial)](https://holopin.io/@dassohamofficial)
 
 
 ## 📈 GitHub Stats
