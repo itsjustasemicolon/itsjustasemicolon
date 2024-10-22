@@ -1,8 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&lines=Hey%2C+I'm+Soham+Das!+%F0%9F%91%8B)](https://git.io/typing-svg)
 <h3 align="left">I am a sophomore in the Department of IT at Jadavpur University. As an enthusiastic programmer, I have hands-on experience in robotics using Arduino Uno, ESP32, and Raspberry Pi. I am eager to make new connections, explore opportunities in programming and robotics, and turn innovative ideas into reality.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=flecha248&label=Profile%20views&color=0e75b6&style=flat" alt="flecha248" /> </p>
-
 ## 🤝 Let's Connect</h3>
 <p align="left">
 <a href="https://linkedin.com/in/soham-das-6a4936280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soham-das-6a4936280" height="30" width="40" /></a>
@@ -32,4 +30,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flecha248&theme=dark" alt="flecha248" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=flecha248&label=Profile%20views&color=0e75b6&style=flat" alt="flecha248" /> </p>
 
