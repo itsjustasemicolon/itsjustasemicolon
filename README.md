@@ -1,4 +1,4 @@
-<h3 align="left">A sophomore in the Department of IT at Jadavpur University. As an enthusiastic programmer, I have hands-on experience in robotics using Arduino Uno, ESP32, and Raspberry Pi. I am eager to make new connections, explore opportunities in programming and robotics, and turn innovative ideas into reality.</h3>
+<h3 align="left">Sophomore at Jadavpur University with a strong passion for programming, robotics, and AI/ML. Proficient in working with platforms such as Arduino Uno, ESP32, and Raspberry Pi, with hands-on experience in developing innovative projects. Actively seeking opportunities to collaborate, expand knowledge in AI/ML, programming, and robotics, and bring creative ideas to life.</h3>
 
 ## 🤝 Let's Connect</h3>
 <p align="left">
