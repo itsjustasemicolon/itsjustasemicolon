@@ -3,7 +3,6 @@
 ## 🤝 Let's Connect</h3>
 <p align="left">
 <a href="https://linkedin.com/in/soham-das-6a4936280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soham-das-6a4936280" height="30" width="40" /></a>
-<a href="https://instagram.com/elonmuskatemytesla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elonmuskatemytesla" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/flecha248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="flecha248" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/flecha248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="flecha248" height="30" width="40" /></a>
 </p>
