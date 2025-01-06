@@ -8,16 +8,16 @@
 [![My Holopin Badges](https://holopin.me/dassohamofficial)](https://holopin.io/@dassohamofficial)
 
 ## 🏆 GitHub Trophies
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=flecha248&theme=onedark" alt="flecha248" />
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=flecha248&theme=onedark" alt="itsjustasemicolon" />
 
 
 
 ## 📈 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=flecha248&show_icons=true&locale=en&layout=compact&theme=dark" alt="flecha248" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=flecha248&show_icons=true&locale=en&layout=compact&theme=dark" alt="itsjustasemicolon" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=flecha248&show_icons=true&locale=en&theme=dark" alt="flecha248" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=flecha248&show_icons=true&locale=en&theme=dark" alt="itsjustasemicolon" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flecha248&theme=dark" alt="flecha248" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flecha248&theme=dark" alt="itsjustasemicolon" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=flecha248&label=Profile%20views&color=0e75b6&style=flat" alt="flecha248" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=flecha248&label=Profile%20views&color=0e75b6&style=flat" alt="itsjustasemicolon" /> </p>
 
