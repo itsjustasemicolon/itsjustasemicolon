@@ -13,7 +13,7 @@
 
 
 ## 📈 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=flecha248&show_icons=true&locale=en&layout=compact&theme=dark" alt="itsjustasemicolon" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsjustasemicolon&show_icons=true&locale=en&layout=compact&theme=dark" alt="itsjustasemicolon" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=flecha248&show_icons=true&locale=en&theme=dark" alt="itsjustasemicolon" /></p>
 
