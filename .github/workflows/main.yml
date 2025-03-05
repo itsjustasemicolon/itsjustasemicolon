@@ -1,0 +1,53 @@
+name: generate animation
+
+on:
+
+  schedule:
+    - cron: "0 */12 * * *" 
+
+  
+  workflow_dispatch:
+  
+  push:
+    branches:
+    - main
+    
+jobs:
+  generate:
+    permissions: 
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        
+      - name: Move and commit SVG files
+        run: |
+          mkdir -p output/
+          mv dist/*.svg output/
+          git config user.name "itsjustasemicolon"
+          git config user.email "isitsoham@gmail.com"
+          if [ -n "$(git status --porcelain)" ]; then
+            git add output/*
+            git commit -m "Update SVG files in output/"
+          else
+            echo "No changes to commit"
+          fi
+          
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          branch: main
+          github_token: ${{ secrets.GITHUB_TOKEN }}
