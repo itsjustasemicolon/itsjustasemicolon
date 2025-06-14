@@ -1,4 +1,4 @@
-<h3 align="left"> Passionate undergraduate student specializing in programming, robotics, and AI/ML. Experienced in developing innovative projects using Arduino Uno, ESP32, and Raspberry Pi platforms. Skilled in embedded systems programming and basic machine learning algorithms. Currently exploring computer vision applications and edge computing solutions. Eager to collaborate on projects, expand knowledge in AI/ML and robotics, and transform creative ideas into impactful solutions. Seeking opportunities to contribute to open-source initiatives and participate in technology hackathons to further hone skills and drive innovation in the field.</h3>
+<h3 align="left"> You can just do things</h3>
 
 ## 🎖️ Holopin Badges
 [![My Holopin Badges](https://holopin.me/dassohamofficial)](https://holopin.io/@dassohamofficial)
