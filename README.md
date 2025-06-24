@@ -1,16 +1,19 @@
 <h1 align="left">💫 You Can Just Do Things</h1>
 
-
-## 🎖️ Holopin Badges
-
-[![My Holopin Badges](https://holopin.me/dassohamofficial)](https://holopin.io/@dassohamofficial)
+> Passionate about building, learning, and contributing — one meaningful step at a time.
 
 ---
 
-## 🏆 GitHub Trophies
+## 🎖️ Holopin Badges
+
+[![Holopin Badges](https://holopin.me/dassohamofficial)](https://holopin.io/@dassohamofficial)
+
+---
+
+## 🏆 GitHub Achievements
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=itsjustasemicolon&theme=onedark" alt="GitHub Trophies for itsjustasemicolon" />
+  <img src="https://github-profile-trophy.vercel.app/?username=itsjustasemicolon&theme=onedark&title=MultiLanguage,Commits,Repositories,Followers,Stars" alt="GitHub Trophies" />
 </a>
 
 ---
@@ -28,10 +31,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
@@ -49,12 +52,15 @@
 
 ---
 
-## 📈 Contribution Graph
+## 📊 Contribution Graph
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsjustasemicolon/itsjustasemicolon/main/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsjustasemicolon/itsjustasemicolon/main/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/itsjustasemicolon/itsjustasemicolon/main/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution graph animation" src="https://raw.githubusercontent.com/itsjustasemicolon/itsjustasemicolon/main/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
+---
+
