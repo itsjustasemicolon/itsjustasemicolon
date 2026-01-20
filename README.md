@@ -1,6 +1,6 @@
 <h1 align="left">💫 You Can Just Do Things</h1>
 
-> **Software Engineer | Full-Stack Developer** > Passionate about building scalable applications and contributing to open-source — one meaningful step at a time.
+> **Pre-final Year @ JU IT | Full-Stack Developer** > Passionate about building scalable applications and contributing to open-source — one meaningful step at a time.
 
 <p align="left">
   <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
