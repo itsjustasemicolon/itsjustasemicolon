@@ -18,15 +18,6 @@
 
 **Infrastructure & Tools** ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
-
-### 🌟 Featured Projects
-*Showcase your best work here. Recruiters click these!*
-
-| Project Name | Description | Tech Stack | Link |
-| :--- | :--- | :--- | :--- |
-| **Project One** | A real-time dashboard for tracking crypto prices with 99% uptime. | Next.js, Firebase, AWS | [Repo](https://github.com/...) |
-| **Project Two** | Full-stack e-commerce API with JWT authentication and Stripe. | Laravel, MySQL, Docker | [Repo](https://github.com/...) |
 
 ---
 
