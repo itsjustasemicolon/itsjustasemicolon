@@ -11,9 +11,9 @@ I’m a developer who turns logic into scalable applications. Whether it's optim
 ---
 
 ## 🌐 Connect With Me
+[<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />](https://itsjustasemicolon.vercel.app/)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/soham-das-6a4936280)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/sooo.hamburger)
-[<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />](https://github.com/itsjustasemicolon)
 
 ---
 
