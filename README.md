@@ -5,7 +5,7 @@
 I’m a developer who turns logic into scalable applications. Whether it's optimizing a C++ algorithm or building responsive full-stack apps, I’m all about meaningful contributions and continuous learning.
 
 - 🔭 **Current Focus:** Deepening my expertise in **AI/ML** and **DSA**.
-- 🌱 **Learning:** Advanced System Design and Open Source contribution.
+- 🌱 **Learning:** System Design and Open Source contribution.
 - ⚡ **Fun Fact:** I believe a semicolon is the difference between a functional app and a mental breakdown.
 
 ---
