@@ -1,5 +1,5 @@
 # 💫 About Me:
-Pre-final Year @ JU IT | Full-Stack Developer** > Passionate about building scalable applications and contributing to open-source — one meaningful step at a time.
+Pre-final Year @ JU IT | Full-Stack Developer > Passionate about building scalable applications and contributing to open-source — one meaningful step at a time.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sooo.hamburger) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soham-das-6a4936280) 
