@@ -35,15 +35,15 @@ I’m a developer who turns logic into scalable applications. Whether it's optim
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=itsjustasemicolon&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=itsjustasemicolon&show_icons=true&theme=radical&hide_border=true&count_private=true" width="50%" />
 </p>
  
 <p align="center"> 
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=itsjustasemicolon&layout=compact&theme=radical&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=itsjustasemicolon&layout=compact&theme=radical&hide_border=true" width="50%" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=itsjustasemicolon&theme=radical&hide_border=true" width="49%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=itsjustasemicolon&theme=radical&hide_border=true" width="50%" />
 </p>
 
 
