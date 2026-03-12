@@ -1,23 +1,23 @@
-# 🚀 Soham Das | Full-Stack Developer
+# Soham Das | Full-Stack Developer
 
-## 👨‍💻 About Me
+## About Me
 **Pre-final Year IT Undergrad @ Jadavpur University** <br>
 I’m a developer who turns logic into scalable applications. Whether it's optimizing a C++ algorithm or building responsive full-stack apps, I’m all about meaningful contributions and continuous learning.
 
-- 🔭 **Current Focus:** Deepening my expertise in **AI/ML** and **DSA**.
-- 🌱 **Learning:** System Design and Open Source contribution.
-- ⚡ **Fun Fact:** I believe a semicolon is the difference between a functional app and a mental breakdown.
+-  **Current Focus:** Deepening my expertise in **AI/ML** and **DSA**.
+-  **Learning:** System Design and Open Source contribution.
+-  **Fun Fact:** I believe a semicolon is the difference between a functional app and a mental breakdown.
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 [<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />](https://itsjustasemicolon.vercel.app/)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/soham-das-6a4936280)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/sooo.hamburger)
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 #### **Languages**
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -33,7 +33,7 @@ I’m a developer who turns logic into scalable applications. Whether it's optim
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=itsjustasemicolon&show_icons=true&theme=radical&hide_border=true&count_private=true" width="50%" />
 </p>
@@ -49,7 +49,7 @@ I’m a developer who turns logic into scalable applications. Whether it's optim
 
 ---
 
-## ✍️ Dev Wisdom
+##  Dev Wisdom
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
