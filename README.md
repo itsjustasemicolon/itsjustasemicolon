@@ -4,8 +4,8 @@
 **Pre-final Year IT Undergrad @ Jadavpur University** <br>
 I’m a developer who turns logic into scalable applications. Whether it's optimizing a C++ algorithm or building responsive full-stack apps, I’m all about meaningful contributions and continuous learning.
 
--  **Current Focus:** Deepening my expertise in **AI/ML** and **DSA**.
--  **Learning:** System Design and Open Source contribution.
+-  **Current Focus:** Deepening my expertise in **Core CS** and **DSA**.
+-  **Learning:** LLD, HLD.
 -  **Fun Fact:** I believe a semicolon is the difference between a functional app and a mental breakdown.
 
 ---
