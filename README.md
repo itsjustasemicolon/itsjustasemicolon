@@ -1,7 +1,7 @@
 # Soham Das | Full-Stack Developer
 
 ## About Me
-**Pre-final Year IT Undergrad @ Jadavpur University** <br>
+**Final Year IT Undergrad @ Jadavpur University** <br>
 I’m a developer who turns logic into scalable applications. Whether it's optimizing a C++ algorithm or building responsive full-stack apps, I’m all about meaningful contributions and continuous learning.
 
 -  **Current Focus:** Deepening my expertise in **Core CS** and **DSA**.
