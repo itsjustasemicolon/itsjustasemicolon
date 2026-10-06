@@ -81,8 +81,6 @@ Currently focusing on **Data Structures & Algorithms, Core CS, Low-Level Design,
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=itsjustasemicolon&color=0077B5&style=flat-square&label=Profile+Views" />
 </p>
