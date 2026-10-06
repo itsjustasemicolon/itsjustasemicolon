@@ -1,6 +1,6 @@
 # Soham Das | Full-Stack Developer
 
-Final-year Information Technology undergraduate at **Jadavpur University**, interested in building reliable and scalable applications while strengthening my foundations in software engineering and computer science.
+Final-year Information Technology undergraduate at **Jadavpur University**, focused on building reliable and scalable applications while strengthening my foundations in software engineering and computer science.
 
 I enjoy working across the stack, solving algorithmic problems, and understanding how systems work beyond simply making them function.
 
@@ -55,8 +55,8 @@ Currently focusing on **Data Structures & Algorithms, Core CS, Low-Level Design,
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsjustasemicolon&show_icons=true&theme=radical&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsjustasemicolon&layout=compact&theme=radical&hide_border=true" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=itsjustasemicolon&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=itsjustasemicolon&layout=compact&theme=radical&hide_border=true" height="170" />
 </p>
 
 <p align="center">
