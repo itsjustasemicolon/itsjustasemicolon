@@ -1,8 +1,8 @@
 # Soham Das | Full-Stack Developer
 
-Final-year Information Technology undergraduate at **Jadavpur University**, focused on building reliable, scalable applications and strengthening my foundations in software engineering and computer science.
+Final-year Information Technology undergraduate at **Jadavpur University**, interested in building reliable and scalable applications while strengthening my foundations in software engineering and computer science.
 
-I enjoy working across the stack, solving algorithmic problems, and understanding how systems work beyond just making them function.
+I enjoy working across the stack, solving algorithmic problems, and understanding how systems work beyond simply making them function.
 
 Currently focusing on **Data Structures & Algorithms, Core CS, Low-Level Design, and High-Level Design**.
 
@@ -55,29 +55,33 @@ Currently focusing on **Data Structures & Algorithms, Core CS, Low-Level Design,
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsjustasemicolon&show_icons=true&theme=radical&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsjustasemicolon&layout=compact&theme=radical&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itsjustasemicolon&show_icons=true&theme=radical&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsjustasemicolon&layout=compact&theme=radical&hide_border=true" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=itsjustasemicolon&theme=radical&hide_border=true" width="60%" />
+  <img src="https://streak-stats.demolab.com/?user=itsjustasemicolon&theme=radical&hide_border=true" height="180" />
 </p>
 
 ---
 
-## What I'm Working On
+## Currently Working On
 
-- Strengthening my understanding of **Data Structures & Algorithms**
-- Revising and deepening **Core Computer Science** fundamentals
+- Strengthening my **Data Structures & Algorithms** skills
+- Revising **Core Computer Science** concepts
 - Learning **Low-Level Design**
 - Learning **High-Level Design**
-- Building practical full-stack projects and improving software design skills
+- Building and improving practical full-stack projects
 
 ---
+
+## Dev Wisdom
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=itsjustasemicolon&color=0077B5&style=flat-square&label=Profile+Views" />
